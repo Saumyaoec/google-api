@@ -1,0 +1,8 @@
+OAuth 2.0 Client IDs 
+edit
+url1 
+http://127.0.0.1:8000
+
+Authorized redirect URIs
+
+http://localhost:8000/accounts/google/login/callback/
